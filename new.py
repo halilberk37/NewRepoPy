@@ -1,0 +1,1 @@
+print("Kodumu yazdım ardından repomu oluşturdum.")
